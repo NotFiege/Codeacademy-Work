@@ -1,4 +1,4 @@
-# Create a program that asks for distance in miles as input. The program will then output how much that distance is in kilometers.
+// Create a program that asks for distance in miles as input. The program will then output how much that distance is in kilometers.
 
 int main() {
   // Add your code below  
