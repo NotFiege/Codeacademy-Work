@@ -1,17 +1,17 @@
-# Little Mac is an interplanetary space boxer, who is trying to win championship belts for various weight categories on other planets within the solar system.
-# Write a space.cpp program that helps him keep track of his target weight by:
-# It should ask him what his earth weight is.
-# Ask him to enter a number for the planet he wants to fight on.
-# It should then compute his weight on the destination planet.
+// Little Mac is an interplanetary space boxer, who is trying to win championship belts for various weight categories on other planets within the solar system.
+// Write a space.cpp program that helps him keep track of his target weight by:
+// It should ask him what his earth weight is.
+// Ask him to enter a number for the planet he wants to fight on.
+// It should then compute his weight on the destination planet.
 
-# Planet/Relative Gravity to Earth: 
-# Mercury, 0.38
-# Venus, 0.91
-# Mars, 0.38
-# Jupter 2.34
-# Saturn 1.06
-# Uranus 0.92
-# Neptune 1.19
+// Planet/Relative Gravity to Earth: 
+// Mercury, 0.38
+// Venus, 0.91
+// Mars, 0.38
+// Jupter 2.34
+// Saturn 1.06
+// Uranus 0.92
+// Neptune 1.19
 
 int main() {
 
