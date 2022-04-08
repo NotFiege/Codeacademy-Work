@@ -26,19 +26,19 @@ int main() {
   std::cout << "7. Neptune\n";
   std::cin >> planet_choice;
 
-  if (planet_choice == 1){
+  if (planet_choice == 1) {
     weight = weight * 0.38;
-  } else if (planet_choice == 2){
+  } else if (planet_choice == 2) {
     weight = weight * 0.91;
-  } else if (planet_choice == 3){
+  } else if (planet_choice == 3) {
     weight = weight * 0.38;
-  } else if (planet_choice == 4){
+  } else if (planet_choice == 4) {
     weight = weight * 2.34;
-  } else if (planet_choice == 5){
+  } else if (planet_choice == 5) {
     weight = weight * 1.06;
-  } else if (planet_choice == 6){
+  } else if (planet_choice == 6) {
     weight = weight * 0.92;
-  } else if (planet_choice == 7){
+  } else if (planet_choice == 7) {
     weight = weight * 1.19;
   }
   std::cout << "Your weight on the visiting planet: " << weight << "\n";
